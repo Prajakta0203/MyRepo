@@ -1,0 +1,2 @@
+testing adding file into git without pushing into staging are
+Adding a new line.
