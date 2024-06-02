@@ -1,2 +1,3 @@
-testing adding file into git without pushing into staging are
+testing adding file into git without pushing into staging area
 Adding a new line.
+Adding some changes into local files
